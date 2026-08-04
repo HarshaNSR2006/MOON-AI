@@ -1,0 +1,150 @@
+2026-07-17 21:11:31.802 | INFO     | app.api.health:health:25 - Health check returned healthy status
+2026-07-17 21:11:31.840 | INFO     | app.websocket.routes:chat_socket:15 - WebSocket client connected: %s
+2026-07-17 21:11:31.844 | INFO     | app.websocket.routes:chat_socket:19 - WebSocket received message from %s
+2026-07-17 21:11:31.845 | INFO     | app.websocket.routes:chat_socket:23 - WebSocket client disconnected: %s
+2026-07-17 21:12:19.829 | INFO     | app.api.health:health:25 - Health check returned healthy status
+2026-07-17 21:12:19.843 | INFO     | app.websocket.routes:chat_socket:15 - WebSocket client connected: %s
+2026-07-17 21:12:19.844 | INFO     | app.websocket.routes:chat_socket:19 - WebSocket received message from %s
+2026-07-17 21:12:19.846 | INFO     | app.websocket.routes:chat_socket:23 - WebSocket client disconnected: %s
+2026-07-17 21:13:27.053 | INFO     | app.api.health:health:25 - Health check returned healthy status
+2026-07-17 21:13:27.067 | INFO     | app.websocket.routes:chat_socket:15 - WebSocket client connected: %s
+2026-07-17 21:13:27.068 | INFO     | app.websocket.routes:chat_socket:19 - WebSocket received message from %s
+2026-07-17 21:13:27.069 | INFO     | app.websocket.routes:chat_socket:23 - WebSocket client disconnected: %s
+2026-07-17 21:14:43.546 | INFO     | app.api.health:health:25 - Health check returned healthy status
+2026-07-17 21:14:43.552 | INFO     | app.websocket.routes:chat_socket:15 - WebSocket client connected: %s
+2026-07-17 21:14:43.554 | INFO     | app.websocket.routes:chat_socket:19 - WebSocket received message from %s
+2026-07-17 21:14:43.558 | INFO     | app.websocket.routes:chat_socket:23 - WebSocket client disconnected: %s
+2026-07-17 21:25:36.671 | INFO     | app.api.health:health:25 - Health check returned healthy status
+2026-07-17 21:26:57.767 | INFO     | app.api.health:health:25 - Health check returned healthy status
+2026-07-17 21:26:57.777 | INFO     | app.websocket.routes:chat_socket:20 - WebSocket client connected: %s
+2026-07-17 21:26:57.779 | INFO     | app.websocket.routes:chat_socket:24 - WebSocket received message from %s
+2026-07-17 21:26:57.779 | INFO     | app.websocket.routes:chat_socket:40 - WebSocket client disconnected: %s
+2026-07-17 21:29:49.386 | INFO     | app.api.health:health:25 - Health check returned healthy status
+2026-07-17 21:29:49.401 | INFO     | app.websocket.routes:chat_socket:20 - WebSocket client connected: %s
+2026-07-17 21:29:49.402 | INFO     | app.websocket.routes:chat_socket:24 - WebSocket received message from %s
+2026-07-17 21:29:49.403 | INFO     | app.websocket.routes:chat_socket:40 - WebSocket client disconnected: %s
+2026-07-21 13:43:50.898 | INFO     | app.api.health:health:25 - Health check returned healthy status
+2026-07-21 13:43:50.938 | INFO     | app.websocket.routes:chat_socket:20 - WebSocket client connected: %s
+2026-07-21 13:43:50.945 | INFO     | app.websocket.routes:chat_socket:24 - WebSocket received message from %s
+2026-07-21 13:43:50.951 | INFO     | app.websocket.routes:chat_socket:40 - WebSocket client disconnected: %s
+2026-07-21 13:54:36.109 | INFO     | app.api.health:health:25 - Health check returned healthy status
+2026-07-21 13:54:36.148 | INFO     | app.websocket.routes:chat_socket:20 - WebSocket client connected: %s
+2026-07-21 13:54:36.156 | INFO     | app.websocket.routes:chat_socket:24 - WebSocket received message from %s
+2026-07-21 13:54:36.161 | INFO     | app.websocket.routes:chat_socket:40 - WebSocket client disconnected: %s
+2026-07-21 13:59:11.457 | INFO     | app.api.health:health:25 - Health check returned healthy status
+2026-07-21 13:59:12.490 | INFO     | app.websocket.routes:chat_socket:20 - WebSocket client connected: %s
+2026-07-21 13:59:12.495 | INFO     | app.websocket.routes:chat_socket:24 - WebSocket received message from %s
+2026-07-21 13:59:12.500 | INFO     | app.websocket.routes:chat_socket:40 - WebSocket client disconnected: %s
+2026-07-21 14:00:07.827 | INFO     | app.api.health:health:25 - Health check returned healthy status
+2026-07-21 14:00:07.878 | INFO     | app.websocket.routes:chat_socket:20 - WebSocket client connected: %s
+2026-07-21 14:00:07.887 | INFO     | app.websocket.routes:chat_socket:24 - WebSocket received message from %s
+2026-07-21 14:00:07.892 | INFO     | app.websocket.routes:chat_socket:40 - WebSocket client disconnected: %s
+2026-08-03 11:47:41.836 | INFO     | app.api.health:health:25 - Health check returned healthy status
+2026-08-03 11:47:41.943 | INFO     | app.websocket.routes:chat_socket:20 - WebSocket client connected: %s
+2026-08-03 11:47:41.951 | INFO     | app.websocket.routes:chat_socket:24 - WebSocket received message from %s
+2026-08-03 11:47:41.953 | INFO     | app.websocket.routes:chat_socket:40 - WebSocket client disconnected: %s
+2026-08-03 11:57:29.888 | INFO     | app.api.health:health:25 - Health check returned healthy status
+2026-08-03 11:57:30.089 | INFO     | app.voice.manager:start:33 - Voice engine started
+2026-08-03 11:57:30.093 | INFO     | app.voice.manager:stop:42 - Voice engine stopped
+2026-08-03 11:57:30.124 | INFO     | app.voice.manager:transcribe:52 - Using provided transcript text
+2026-08-03 11:57:33.875 | INFO     | app.websocket.routes:chat_socket:20 - WebSocket client connected: %s
+2026-08-03 11:57:33.886 | INFO     | app.websocket.routes:chat_socket:24 - WebSocket received message from %s
+2026-08-03 11:57:33.898 | INFO     | app.websocket.routes:chat_socket:40 - WebSocket client disconnected: %s
+2026-08-03 11:58:20.424 | INFO     | app.api.health:health:25 - Health check returned healthy status
+2026-08-03 11:58:20.451 | INFO     | app.voice.manager:start:34 - Voice engine started
+2026-08-03 11:58:20.451 | INFO     | app.voice.manager:stop:43 - Voice engine stopped
+2026-08-03 11:58:20.456 | INFO     | app.voice.manager:transcribe:53 - Using provided transcript text
+2026-08-03 11:58:21.148 | INFO     | app.websocket.routes:chat_socket:20 - WebSocket client connected: %s
+2026-08-03 11:58:21.153 | INFO     | app.websocket.routes:chat_socket:24 - WebSocket received message from %s
+2026-08-03 11:58:21.158 | INFO     | app.websocket.routes:chat_socket:40 - WebSocket client disconnected: %s
+2026-08-03 11:59:56.340 | INFO     | app.api.health:health:25 - Health check returned healthy status
+2026-08-03 11:59:56.398 | INFO     | app.voice.manager:start:34 - Voice engine started
+2026-08-03 11:59:56.399 | INFO     | app.voice.manager:stop:43 - Voice engine stopped
+2026-08-03 11:59:56.408 | INFO     | app.voice.manager:transcribe:53 - Using provided transcript text
+2026-08-03 11:59:56.445 | INFO     | app.websocket.routes:chat_socket:20 - WebSocket client connected: %s
+2026-08-03 11:59:56.449 | INFO     | app.websocket.routes:chat_socket:24 - WebSocket received message from %s
+2026-08-03 11:59:56.456 | INFO     | app.websocket.routes:chat_socket:40 - WebSocket client disconnected: %s
+2026-08-03 12:37:44.693 | INFO     | app.agent.executor:execute:25 - Executing agent task %s: %s
+2026-08-03 12:37:44.707 | INFO     | app.agent.executor:execute:33 - Task %s completed successfully
+2026-08-03 12:39:01.646 | INFO     | app.agent.executor:execute:25 - Executing agent task %s: %s
+2026-08-03 12:39:01.652 | INFO     | app.agent.executor:execute:33 - Task %s completed successfully
+2026-08-03 12:39:03.988 | INFO     | app.api.health:health:25 - Health check returned healthy status
+2026-08-03 12:39:04.066 | INFO     | app.voice.manager:start:34 - Voice engine started
+2026-08-03 12:39:04.067 | INFO     | app.voice.manager:stop:43 - Voice engine stopped
+2026-08-03 12:39:04.070 | INFO     | app.voice.manager:transcribe:53 - Using provided transcript text
+2026-08-03 12:39:04.095 | INFO     | app.websocket.routes:chat_socket:20 - WebSocket client connected: %s
+2026-08-03 12:39:04.102 | INFO     | app.websocket.routes:chat_socket:24 - WebSocket received message from %s
+2026-08-03 12:39:04.105 | INFO     | app.websocket.routes:chat_socket:40 - WebSocket client disconnected: %s
+2026-08-03 19:44:40.462 | INFO     | app.agent.executor:execute_task:20 - Executing agent task %s: %s
+2026-08-03 19:44:40.470 | INFO     | app.agent.executor:execute_task:28 - Task %s completed successfully
+2026-08-03 19:44:43.046 | INFO     | app.api.health:health:25 - Health check returned healthy status
+2026-08-03 19:44:43.116 | INFO     | app.voice.manager:start:34 - Voice engine started
+2026-08-03 19:44:43.117 | INFO     | app.voice.manager:stop:43 - Voice engine stopped
+2026-08-03 19:44:43.138 | INFO     | app.voice.manager:transcribe:53 - Using provided transcript text
+2026-08-03 19:44:43.174 | INFO     | app.websocket.routes:chat_socket:20 - WebSocket client connected: %s
+2026-08-03 19:44:43.184 | INFO     | app.websocket.routes:chat_socket:24 - WebSocket received message from %s
+2026-08-03 19:44:43.193 | INFO     | app.websocket.routes:chat_socket:40 - WebSocket client disconnected: %s
+2026-08-03 19:47:41.009 | INFO     | app.agent.executor:execute_task:20 - Executing agent task %s: %s
+2026-08-03 19:47:41.027 | INFO     | app.agent.executor:execute_task:28 - Task %s completed successfully
+2026-08-03 19:47:43.639 | INFO     | app.api.health:health:25 - Health check returned healthy status
+2026-08-03 19:47:44.924 | INFO     | app.voice.manager:start:34 - Voice engine started
+2026-08-03 19:47:44.924 | INFO     | app.voice.manager:stop:43 - Voice engine stopped
+2026-08-03 19:47:44.932 | INFO     | app.voice.manager:transcribe:53 - Using provided transcript text
+2026-08-03 19:47:44.951 | INFO     | app.websocket.routes:chat_socket:20 - WebSocket client connected: %s
+2026-08-03 19:47:44.954 | INFO     | app.websocket.routes:chat_socket:24 - WebSocket received message from %s
+2026-08-03 19:47:44.956 | INFO     | app.websocket.routes:chat_socket:40 - WebSocket client disconnected: %s
+2026-08-03 19:48:18.844 | INFO     | app.agent.executor:execute_task:20 - Executing agent task %s: %s
+2026-08-03 19:48:18.854 | INFO     | app.agent.executor:execute_task:28 - Task %s completed successfully
+2026-08-03 19:48:20.938 | INFO     | app.api.health:health:25 - Health check returned healthy status
+2026-08-03 19:48:21.016 | INFO     | app.voice.manager:start:34 - Voice engine started
+2026-08-03 19:48:21.018 | INFO     | app.voice.manager:stop:43 - Voice engine stopped
+2026-08-03 19:48:21.027 | INFO     | app.voice.manager:transcribe:53 - Using provided transcript text
+2026-08-03 19:48:21.075 | INFO     | app.websocket.routes:chat_socket:20 - WebSocket client connected: %s
+2026-08-03 19:48:21.082 | INFO     | app.websocket.routes:chat_socket:24 - WebSocket received message from %s
+2026-08-03 19:48:21.088 | INFO     | app.websocket.routes:chat_socket:40 - WebSocket client disconnected: %s
+2026-08-03 20:30:26.252 | INFO     | app.main:lifespan:26 - Starting %s
+2026-08-03 20:30:26.291 | INFO     | app.main:lifespan:31 - Loaded %s plugin(s)
+2026-08-03 20:34:43.892 | INFO     | app.api.health:health:25 - Health check returned healthy status
+2026-08-03 20:40:11.314 | INFO     | app.main:lifespan:35 - Shutting down %s
+2026-08-03 22:23:06.064 | INFO     | app.main:lifespan:26 - Starting %s
+2026-08-03 22:23:06.117 | INFO     | app.main:lifespan:31 - Loaded %s plugin(s)
+2026-08-03 22:41:42.065 | INFO     | app.websocket.routes:chat_socket:20 - WebSocket client connected: %s
+2026-08-03 22:41:42.126 | INFO     | app.websocket.routes:chat_socket:40 - WebSocket client disconnected: %s
+2026-08-03 22:41:42.139 | INFO     | app.websocket.routes:chat_socket:20 - WebSocket client connected: %s
+2026-08-03 22:42:13.591 | INFO     | app.websocket.routes:chat_socket:24 - WebSocket received message from %s
+2026-08-03 22:42:17.689 | INFO     | app.websocket.routes:chat_socket:40 - WebSocket client disconnected: %s
+2026-08-03 22:42:32.139 | INFO     | app.websocket.routes:chat_socket:20 - WebSocket client connected: %s
+2026-08-03 22:42:32.142 | INFO     | app.websocket.routes:chat_socket:40 - WebSocket client disconnected: %s
+2026-08-03 22:42:32.162 | INFO     | app.websocket.routes:chat_socket:20 - WebSocket client connected: %s
+2026-08-03 22:42:34.169 | INFO     | app.websocket.routes:chat_socket:40 - WebSocket client disconnected: %s
+2026-08-03 22:43:40.359 | INFO     | app.websocket.routes:chat_socket:20 - WebSocket client connected: %s
+2026-08-03 22:43:40.361 | INFO     | app.websocket.routes:chat_socket:40 - WebSocket client disconnected: %s
+2026-08-03 22:43:40.370 | INFO     | app.websocket.routes:chat_socket:20 - WebSocket client connected: %s
+2026-08-03 22:44:22.755 | INFO     | app.websocket.routes:chat_socket:40 - WebSocket client disconnected: %s
+2026-08-04 10:06:11.935 | INFO     | app.main:lifespan:26 - Starting %s
+2026-08-04 10:06:12.040 | INFO     | app.main:lifespan:31 - Loaded %s plugin(s)
+2026-08-04 10:08:40.555 | INFO     | app.websocket.routes:chat_socket:20 - WebSocket client connected: %s
+2026-08-04 10:08:40.576 | INFO     | app.websocket.routes:chat_socket:40 - WebSocket client disconnected: %s
+2026-08-04 10:08:40.582 | INFO     | app.websocket.routes:chat_socket:20 - WebSocket client connected: %s
+2026-08-04 10:08:48.314 | INFO     | app.websocket.routes:chat_socket:24 - WebSocket received message from %s
+2026-08-04 10:12:03.997 | INFO     | app.websocket.routes:chat_socket:40 - WebSocket client disconnected: %s
+2026-08-04 10:24:06.610 | INFO     | app.websocket.routes:chat_socket:20 - WebSocket client connected: %s
+2026-08-04 10:24:06.628 | INFO     | app.websocket.routes:chat_socket:20 - WebSocket client connected: %s
+2026-08-04 10:24:06.692 | INFO     | app.websocket.routes:chat_socket:40 - WebSocket client disconnected: %s
+2026-08-04 10:30:14.311 | INFO     | app.websocket.routes:chat_socket:24 - WebSocket received message from %s
+2026-08-04 10:32:31.000 | INFO     | app.websocket.routes:chat_socket:40 - WebSocket client disconnected: %s
+2026-08-04 10:41:40.492 | INFO     | app.api.health:health:25 - Health check returned healthy status
+2026-08-04 12:01:09.715 | INFO     | app.agent.executor:execute_task:20 - Executing agent task %s: %s
+2026-08-04 12:01:09.724 | INFO     | app.agent.executor:execute_task:28 - Task %s completed successfully
+2026-08-04 12:01:10.816 | INFO     | app.api.health:health:25 - Health check returned healthy status
+2026-08-04 12:01:10.859 | INFO     | app.voice.manager:start:34 - Voice engine started
+2026-08-04 12:01:10.859 | INFO     | app.voice.manager:stop:43 - Voice engine stopped
+2026-08-04 12:01:10.861 | INFO     | app.voice.manager:transcribe:53 - Using provided transcript text
+2026-08-04 12:01:10.866 | INFO     | app.websocket.routes:chat_socket:20 - WebSocket client connected: %s
+2026-08-04 12:01:10.869 | INFO     | app.websocket.routes:chat_socket:24 - WebSocket received message from %s
+2026-08-04 12:01:10.873 | INFO     | app.websocket.routes:chat_socket:40 - WebSocket client disconnected: %s
+2026-08-04 12:03:01.962 | INFO     | app.main:lifespan:26 - Starting %s
+2026-08-04 12:03:02.001 | INFO     | app.main:lifespan:31 - Loaded %s plugin(s)
+2026-08-04 12:16:32.434 | INFO     | app.main:lifespan:26 - Starting %s
+2026-08-04 12:16:32.501 | INFO     | app.main:lifespan:31 - Loaded %s plugin(s)
+2026-08-04 12:16:51.492 | INFO     | app.api.health:health:25 - Health check returned healthy status
